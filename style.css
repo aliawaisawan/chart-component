@@ -1,0 +1,53 @@
+body{
+    background-image: url("img.jpg");
+}
+.barchart{
+    background: white;
+    border-radius:15px;
+    border:1px solid #bbb;
+}
+.mainbg{
+    display: flex;
+    justify-content: center;
+}
+.w-100{
+    margin-right: 100px;
+}
+.flex-shrink-1{
+    margin-left: 70px;
+}
+hr{
+    max-width: 335px;
+margin: 10px auto;
+text-align: left;
+}
+.balancebar{
+    background: #CE0028;
+    padding:10px 10px;
+    color:#FFF;
+    font-size:1em;
+    border-radius:15px;
+    border:1px solid #bbb;
+    margin-top: 100px;
+
+
+}
+.container{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.weekdays{
+    margin-left: 37px;
+}
+.col{
+    padding: 10px 50px;
+    margin: 0px 54px;
+}
+.total{
+    margin-right: 150px;
+    font-size: 12px;
+}
+.percentage{
+   font-size: 12px;
+}
